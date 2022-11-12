@@ -84,6 +84,7 @@ namespace ConsoleMkr
                     Console.WriteLine($"Сума платежів: {allsum}");
                 }
                 Console.WriteLine();
+                Console.ReadKey();
             }
 
         }
@@ -100,6 +101,7 @@ namespace ConsoleMkr
 
             pay1.PrintPayment();
             pay2.PrintPayment();
+            pay1.AllSumPayment();
 
         }
     }
