@@ -1,0 +1,15 @@
+D:\laboratory_architectures\Mkr_architectures\Mkr_architectures\bin\Debug\net6.0\Mkr_architectures.exe
+D:\laboratory_architectures\Mkr_architectures\Mkr_architectures\bin\Debug\net6.0\Mkr_architectures.deps.json
+D:\laboratory_architectures\Mkr_architectures\Mkr_architectures\bin\Debug\net6.0\Mkr_architectures.runtimeconfig.json
+D:\laboratory_architectures\Mkr_architectures\Mkr_architectures\bin\Debug\net6.0\Mkr_architectures.dll
+D:\laboratory_architectures\Mkr_architectures\Mkr_architectures\bin\Debug\net6.0\Mkr_architectures.pdb
+D:\laboratory_architectures\Mkr_architectures\Mkr_architectures\obj\Debug\net6.0\Mkr_architectures.csproj.AssemblyReference.cache
+D:\laboratory_architectures\Mkr_architectures\Mkr_architectures\obj\Debug\net6.0\Mkr_architectures.GeneratedMSBuildEditorConfig.editorconfig
+D:\laboratory_architectures\Mkr_architectures\Mkr_architectures\obj\Debug\net6.0\Mkr_architectures.AssemblyInfoInputs.cache
+D:\laboratory_architectures\Mkr_architectures\Mkr_architectures\obj\Debug\net6.0\Mkr_architectures.AssemblyInfo.cs
+D:\laboratory_architectures\Mkr_architectures\Mkr_architectures\obj\Debug\net6.0\Mkr_architectures.csproj.CoreCompileInputs.cache
+D:\laboratory_architectures\Mkr_architectures\Mkr_architectures\obj\Debug\net6.0\Mkr_architectures.dll
+D:\laboratory_architectures\Mkr_architectures\Mkr_architectures\obj\Debug\net6.0\refint\Mkr_architectures.dll
+D:\laboratory_architectures\Mkr_architectures\Mkr_architectures\obj\Debug\net6.0\Mkr_architectures.pdb
+D:\laboratory_architectures\Mkr_architectures\Mkr_architectures\obj\Debug\net6.0\Mkr_architectures.genruntimeconfig.cache
+D:\laboratory_architectures\Mkr_architectures\Mkr_architectures\obj\Debug\net6.0\ref\Mkr_architectures.dll
